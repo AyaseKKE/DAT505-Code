@@ -1,2 +1,2 @@
-# DAT505-Code
-Wei Yuhao
+# DAT505-Code Yuhao Wei
+
